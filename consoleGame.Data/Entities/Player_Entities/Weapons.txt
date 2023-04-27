@@ -1,0 +1,17 @@
+|
+1
+Rusted Sword
+A one handed blade. A little rusted...
+15
+80
+|
+2
+Shabby Spear
+A two handed spear. Barely held together by rope...
+10
+95
+|
+Dented Hammer
+A two handed warhammer. Its covered in dents...
+25
+65

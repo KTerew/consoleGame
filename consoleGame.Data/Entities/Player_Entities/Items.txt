@@ -1,0 +1,12 @@
+|
+1
+Potion
+Heals player for 30 HP.
+|
+2
+Shield
+Lowers Enemy's accuracy by 50% until hit.
+|
+3
+Javelin
+Damages Enemy and stuns for 1 turn.
