@@ -1,7 +1,7 @@
 
-public class Slime
+public class Enemy
 {
-    public int healthPoints = 10;
+    public int healthPoints {get;set;}
 
     public bool IsDead
     {

@@ -6,11 +6,12 @@ public class Player
         Name = name;
     }
 
-public int ID {get;set;}
+    public int ID {get;set;}
     public string Name {get;set;}= string.Empty;
     public int healthPoints {get; set;} = 100;
 
     public List<Items> Bag;
+    
     
     public void DecreaseHealth(int value)
     {
@@ -34,7 +35,7 @@ public int ID {get;set;}
         int number = rand.Next(0,99);
         if(accuracy > number)
         {
-            
+
             System.Console.WriteLine();
         }
     }
