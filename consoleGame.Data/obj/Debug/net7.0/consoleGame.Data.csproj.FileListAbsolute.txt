@@ -1,0 +1,12 @@
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Data\obj\Debug\net7.0\consoleGame.Data.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Data\obj\Debug\net7.0\consoleGame.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Data\obj\Debug\net7.0\consoleGame.Data.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Data\obj\Debug\net7.0\consoleGame.Data.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Data\obj\Debug\net7.0\consoleGame.Data.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Data\bin\Debug\net7.0\consoleGame.Data.deps.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Data\bin\Debug\net7.0\consoleGame.Data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Data\bin\Debug\net7.0\consoleGame.Data.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Data\obj\Debug\net7.0\consoleGame.Data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Data\obj\Debug\net7.0\refint\consoleGame.Data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Data\obj\Debug\net7.0\consoleGame.Data.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Data\obj\Debug\net7.0\ref\consoleGame.Data.dll

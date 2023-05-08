@@ -1,0 +1,17 @@
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\obj\Debug\net7.0\consoleGame.UI.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\obj\Debug\net7.0\consoleGame.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\obj\Debug\net7.0\consoleGame.UI.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\obj\Debug\net7.0\consoleGame.UI.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\obj\Debug\net7.0\consoleGame.UI.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\bin\Debug\net7.0\consoleGame.UI.deps.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\bin\Debug\net7.0\consoleGame.UI.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\bin\Debug\net7.0\consoleGame.UI.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\bin\Debug\net7.0\consoleGame.Data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\bin\Debug\net7.0\consoleGame.Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\bin\Debug\net7.0\consoleGame.Data.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\bin\Debug\net7.0\consoleGame.Repository.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\obj\Debug\net7.0\consoleGame.UI.csproj.CopyComplete
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\obj\Debug\net7.0\consoleGame.UI.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\obj\Debug\net7.0\refint\consoleGame.UI.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\obj\Debug\net7.0\consoleGame.UI.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.UI\obj\Debug\net7.0\ref\consoleGame.UI.dll

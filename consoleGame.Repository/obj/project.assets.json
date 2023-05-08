@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "consoleGame.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/consoleGame.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/consoleGame.Data.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "consoleGame.Data/1.0.0": {
+      "type": "project",
+      "path": "../consoleGame.Data/consoleGame.Data.csproj",
+      "msbuildProject": "../consoleGame.Data/consoleGame.Data.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "consoleGame.Data >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Kody\\.nuget\\packages\\": {},
@@ -37,7 +56,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\consoleGame\\consoleGame.Data\\consoleGame.Data.csproj": {
+              "projectPath": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\consoleGame\\consoleGame.Data\\consoleGame.Data.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

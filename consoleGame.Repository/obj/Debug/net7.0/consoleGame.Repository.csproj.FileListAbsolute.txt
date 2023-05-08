@@ -1,0 +1,15 @@
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Repository\bin\Debug\net7.0\consoleGame.Repository.deps.json
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Repository\bin\Debug\net7.0\consoleGame.Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Repository\bin\Debug\net7.0\consoleGame.Repository.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Repository\bin\Debug\net7.0\consoleGame.Data.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Repository\bin\Debug\net7.0\consoleGame.Data.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Repository\obj\Debug\net7.0\consoleGame.Repository.csproj.AssemblyReference.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Repository\obj\Debug\net7.0\consoleGame.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Repository\obj\Debug\net7.0\consoleGame.Repository.AssemblyInfoInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Repository\obj\Debug\net7.0\consoleGame.Repository.AssemblyInfo.cs
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Repository\obj\Debug\net7.0\consoleGame.Repository.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Repository\obj\Debug\net7.0\consoleGame.Repository.csproj.CopyComplete
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Repository\obj\Debug\net7.0\consoleGame.Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Repository\obj\Debug\net7.0\refint\consoleGame.Repository.dll
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Repository\obj\Debug\net7.0\consoleGame.Repository.pdb
+C:\ElevenFiftyProjects\codingFoundations\dotnetProjects\consoleGame\consoleGame.Repository\obj\Debug\net7.0\ref\consoleGame.Repository.dll

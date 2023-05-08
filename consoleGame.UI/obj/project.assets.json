@@ -1,11 +1,49 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net7.0": {
+      "consoleGame.Data/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/consoleGame.Data.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/consoleGame.Data.dll": {}
+        }
+      },
+      "consoleGame.Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "consoleGame.Data": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/consoleGame.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/consoleGame.Repository.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "consoleGame.Data/1.0.0": {
+      "type": "project",
+      "path": "../consoleGame.Data/consoleGame.Data.csproj",
+      "msbuildProject": "../consoleGame.Data/consoleGame.Data.csproj"
+    },
+    "consoleGame.Repository/1.0.0": {
+      "type": "project",
+      "path": "../consoleGame.Repository/consoleGame.Repository.csproj",
+      "msbuildProject": "../consoleGame.Repository/consoleGame.Repository.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net7.0": [
+      "consoleGame.Data >= 1.0.0",
+      "consoleGame.Repository >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Kody\\.nuget\\packages\\": {},
@@ -37,7 +75,14 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\consoleGame\\consoleGame.Data\\consoleGame.Data.csproj": {
+              "projectPath": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\consoleGame\\consoleGame.Data\\consoleGame.Data.csproj"
+            },
+            "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\consoleGame\\consoleGame.Repository\\consoleGame.Repository.csproj": {
+              "projectPath": "C:\\ElevenFiftyProjects\\codingFoundations\\dotnetProjects\\consoleGame\\consoleGame.Repository\\consoleGame.Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
